@@ -1,55 +1,78 @@
-# WeatherNow
+# Weather Dashboard | Real-Time Forecast
 
-WeatherNow is a modern and responsive weather forecast web application that provides real-time weather updates using the OpenWeather API.
+A modern and responsive weather forecast web application that provides real-time weather updates using the OpenWeather API.
 
-## Features
+---
 
+## 🌐 Live Demo
+https://weather-dashboard-amber-sigma-85.vercel.app/
+
+---
+
+## 🚀 Features
 - Search weather by city name
 - Real-time temperature updates
+- 5-day weather forecast
 - Humidity and wind speed information
 - Dynamic weather icons
-- Responsive design for all devices
-- Error handling for invalid searches
+- Current location weather
+- Loading animations
+- Error handling
+- Responsive design
 
-## Technologies Used
+---
 
-- HTML
-- CSS
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
 - JavaScript
 - OpenWeather API
+- Font Awesome
 
-## Project Structure
+---
 
-WeatherNow/
+## 📱 Responsive Design
+Optimized for:
+- Desktop
+- Tablet
+- Mobile devices
+
+---
+
+## 📸 Screenshot
+
+(Add your project screenshot here)
+
+---
+
+## 📂 Project Structure
+
+```bash
+weather-dashboard/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── screenshots/
 └── README.md
+```
 
-## How to Run
+---
 
-1. Clone the repository
-2. Open the project folder
-3. Run `index.html` in your browser
-
-## API Used
-
-OpenWeather API:
-https://openweathermap.org/api
-
-## Future Improvements
-
-- 5-day weather forecast
+## 💡 Future Improvements
 - Dark mode
-- Current location weather
+- Hourly weather forecast
 - Search history
 - Weather animations
+- Temperature unit switch (°C / °F)
 
-## Author
+---
 
+## 👩‍💻 Author
 Mansi Panwar
 
 GitHub:
 https://github.com/mansipanwar28
+
+---
+
+⭐ Built with passion for frontend development.
